@@ -8,6 +8,7 @@
 Lego Pieces included in the bag, nine pieces.  One mounted LED light, for a total of 10 pieces all together.
 
 Labeled Components (A-J)
+
 A)	Tank Track ( Charcoal Color) 
 
 ![Tank Destoyer](https://github.com/rtalavera0344/E235/blob/legoimages/pic3.jpg)
