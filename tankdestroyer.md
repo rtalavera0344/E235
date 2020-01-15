@@ -7,8 +7,17 @@
 
 Lego Pieces included in the bag, nine pieces.  One mounted LED light, for a total of 10 pieces all together.
 
+Labeled Components (A-J)
+A)	Tank Track ( Charcoal Color) 
+
 ![Tank Destoyer](https://github.com/rtalavera0344/E235/blob/legoimages/pic3.jpg)
+
+B)	Hole Driller (Silver Color)
+ 
 ![Tank Destoyer](https://github.com/rtalavera0344/E235/blob/legoimages/pic4.jpg)
+
+C)	Ground Digger (Red Color)
+ 
 ![Tank Destoyer](https://github.com/rtalavera0344/E235/blob/legoimages/pic5.jpg)
 ![Tank Destoyer](https://github.com/rtalavera0344/E235/blob/legoimages/pic6.jpg)
 ![Tank Destoyer](https://github.com/rtalavera0344/E235/blob/legoimages/pic7.jpg)
