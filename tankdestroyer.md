@@ -63,15 +63,34 @@ Step 3: Connect piece ( C ) ground digger, to the back of the tank track, next t
 
 ![Tank Destoyer](https://github.com/rtalavera0344/E235/blob/legoimages/pic15.jpg)
 
+Step 4: Connect piece (D) turret rotator, to the front left of the tank track.
 
 ![Tank Destoyer](https://github.com/rtalavera0344/E235/blob/legoimages/pic16.jpg)
 ![Tank Destoyer](https://github.com/rtalavera0344/E235/blob/legoimages/pic17.jpg)
+
+Step 5: Connect piece (E) tank missile, in front of piece (D), through the middle hole.
+
 ![Tank Destoyer](https://github.com/rtalavera0344/E235/blob/legoimages/pic18.jpg)
+
+Step 6: Connect piece (F) gunner, to the top of piece (E), on the right side connecting holes of the tank missile.
+
 ![Tank Destoyer](https://github.com/rtalavera0344/E235/blob/legoimages/pic19.jpg)
+
+Step 7: Connect piece (H) emergency ladder, towards the back of the tank track, with the little red cross aligned with the ground digger on the left side.
+
 ![Tank Destoyer](https://github.com/rtalavera0344/E235/blob/legoimages/pic20.jpg)
 ![Tank Destoyer](https://github.com/rtalavera0344/E235/blob/legoimages/pic21.jpg)
+
+Step 8: Connect piece (I) driver’s hatch, on the top middle of the tank track, towards the left side row.
+
 ![Tank Destoyer](https://github.com/rtalavera0344/E235/blob/legoimages/pic22.jpg)
+
+Step 9: Insert piece (G) truck antenna, inside top middle of tank track, next to piece (I), on the right side row.
+
 ![Tank Destoyer](https://github.com/rtalavera0344/E235/blob/legoimages/pic23.jpg)
+
+Step 10 (Final Step): Place piece (J) emergency LED light, on top of the tank track, towards the middle, behind piece (G). NOTE: There’s a clear up and down switch on piece (J), for on and off capabilities.
+
 ![Tank Destoyer](https://github.com/rtalavera0344/E235/blob/legoimages/pic24.jpg)
 ![Tank Destoyer](https://github.com/rtalavera0344/E235/blob/legoimages/pic25.jpg)
 ![Tank Destoyer](https://github.com/rtalavera0344/E235/blob/legoimages/pic26.jpg)
